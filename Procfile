@@ -1,1 +1,1 @@
-web: ./alist server --no-prefix
+web: bash entrypoint.sh
